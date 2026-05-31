@@ -28,7 +28,7 @@ To develop an integrated robotic arm system combining computer vision, embedded 
 
 * ROS
 * OpenCV
-* Arduino / Embedded Systems
+* ESP32
 * Servo Motor Control
 
 ## Results
