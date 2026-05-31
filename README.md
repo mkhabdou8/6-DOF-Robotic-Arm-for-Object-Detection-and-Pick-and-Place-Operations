@@ -26,7 +26,6 @@ To develop an integrated robotic arm system combining computer vision, embedded 
 
 ## Technologies Used
 
-* Python / C++
 * ROS
 * OpenCV
 * Arduino / Embedded Systems
